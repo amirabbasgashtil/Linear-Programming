@@ -1,2 +1,3 @@
 # Linear-Programming
-in this folder we have some problems in linear programming
+in this repo we have some problems in linear programming
+Linear Programming course by Dr.vahidi 
